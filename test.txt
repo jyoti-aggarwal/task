@@ -1,1 +1,5 @@
 
+Magento
+
+CMS
+Follows MVC
